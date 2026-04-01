@@ -1,6 +1,26 @@
 # 💫 About Me:
-Hello everyone Anmol this side. I am currently a student and pursuing my Engineering from (Electrical+CS). i have an aim to become a Software developer or an AI/ML Engineer in a reputed company.<br>i am looking to collaborate with expert professionals who can guide me what else should i learn to improve..<br>also i am looking for help from someone eho can guide me how can i contribute to open source projects.<br>I am currently learning and advancing myself in Artificial intelligence and Machine Learning(using Python). Also besides this i am also strengthening my skills in Data structures and Algorithms(DSA using C++) and Full stack development. <br>you can ask me about any of the above topics that i mentioned or also you can tell me your experience or stories of student life,professional life. Iwould love to hear that😊.<br>my guilty pleasure is watching thrillerbased webseries on online platforms and then regretting it.😂<br>
+## 👋 Hello everyone, Anmol this side!
 
+I am currently pursuing my Engineering in **Electrical and Computer Science**.  
+I aspire to become a **Software Developer** or an **AI/ML Engineer** in a reputed company.
+
+### 🚀 More about me: 
+- 🌱 I am currently learning and advancing in **Artificial Intelligence and Machine Learning (using Python)**  
+- 💻 Strengthening my skills in **Data Structures and Algorithms (DSA using C++)**  
+  🌐 Exploring **GEN AI and Agentic AI**  
+
+### 🤝 Looking For: 
+● Guidance from experienced professionals on **what more I should learn and improve**
+● Help in understanding **how to start contributing to Open Source projects**
+  Opportunities to **collaborate and grow**
+
+### 💬 Let’s Connect
+● Feel free to ask me about any of the areas mentioned above,  
+or share your experiences from student or professional life — I would love to learn from you 😊
+
+### 😄 Fun Fact
+● My guilty pleasure is watching **thriller-based web series** on online platforms…  
+and then regretting it later 😂
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-shukla-0294972b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklaanmol811@gmail.com) 

@@ -10,7 +10,7 @@ I aspire to become a **Software Developer** or an **AI/ML Engineer** in a repute
   🌐 Exploring **GEN AI and Agentic AI**  
 
 ### 🤝 Looking For: 
-● Guidance from experienced professionals on **what more I should learn and improve**
+● Guidance from experienced professionals on **what more I should learn and improve**<br>
 ● Help in understanding **how to start contributing to Open Source projects**
   Opportunities to **collaborate and grow**
 

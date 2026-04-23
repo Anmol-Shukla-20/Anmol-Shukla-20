@@ -158,6 +158,7 @@ Google Classroom Integration System
     ],
     "status": "ACTIVE"
 }
+```
 
 Tech: APIs • Node.js • JavaScript • Firebase
 </td> </tr> <tr> <td width="50%" valign="top">
@@ -165,7 +166,7 @@ Tech: APIs • Node.js • JavaScript • Firebase
 🌾 AI Krishi Sahayak
 Smart Agriculture Assistant
 
-project = {
+```project = {
     "objective": "Assist farmers using AI insights",
     "features": [
         "🌱 Crop Recommendation System",
@@ -174,6 +175,7 @@ project = {
     ],
     "status": "DEVELOPMENT"
 }
+```
 
 Tech: Machine Learning • Python • Data Analysis • AI Models
 
@@ -181,7 +183,7 @@ Tech: Machine Learning • Python • Data Analysis • AI Models
 🎯 Coming Soon...
 
 Next Big Innovation
-project = {
+```project = {
     "objective": "???",
     "features": [
         "🔥 Game-Changing Idea",

@@ -302,17 +302,13 @@ It is a craft learnt through constant learning and failure experiences."
 
 </div>
 
----
-<div align="center">
-🚀 LET'S CONNECT
-</div>
-💬 Ask me about AI, DSA, or projects
-🤝 Open to collaborations
-📩 Always ready to learn & grow
 
 <div align="center">
 ⚡ "Building my future one line of code at a time" ⚡
 </div> ```
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,20,25&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=72" />
 
+</div>

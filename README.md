@@ -23,7 +23,6 @@
 ║  🌟 ALIGNMENT: Curious Builder (Always Improving)             ║
 ╚═══════════════════════════════════════════════════════════════╝
 
----
 ```
 
 <div align="center">

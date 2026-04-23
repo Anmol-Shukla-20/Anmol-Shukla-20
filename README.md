@@ -150,7 +150,7 @@ Tech: Python • Machine Learning • NLP • Web Integration
 
 ```python
 project = {
-    "objective": "Track updates of GC Assignments",
+    "objective": "Track GCR Assignments",
     "features": [
         "📚 Multi-Class Monitoring",
         "🔔 Real-Time Notifications",

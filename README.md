@@ -197,10 +197,11 @@ project = {
     ],
     "status": "PLANNING"
 }
+```
 Stay Tuned! 👀
 </td> </tr> </table>
 
-```
+
 
 <div align="center">
 

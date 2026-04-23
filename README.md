@@ -1,4 +1,3 @@
-<img width="980" height="494" alt="image" src="https://github.com/user-attachments/assets/165ff3ad-3813-4344-832e-7cb0634d9a7d" /><div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anmol!+👋;Electrical+%26+CS+Engineer+⚡;AI%2FML+Enthusiast+🤖;Aspiring+Software+Developer+💻;Problem+Solver+🚀" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-shukla-0294972b9)
@@ -272,28 +271,38 @@ graph TD
 <div align="center">
 
 ## 💭 PHILOSOPHY
-"Programming is not a Science.It is a craft learnt through constant learning and failure experiences."
+"Programming is not a Science,<br>
+It is a craft learnt through constant learning and failure experiences."
 
 </div>
-
-```python
-class AnmolMindset:
-    def __init__(self):
-        self.motto = "Keep learning, keep building"
-        self.goal = "Turn ideas into real-world solutions"
-
-    def daily_rule(self):
-        return "Code. Learn. Improve. Repeat. 🚀"
 
 ---
 
-
 <div align="center">
-🔥 FUN FACT
+
+## 🤝 LET'S CONNECT & COLLABORATE! 🤝
+
 </div>
 
-😂 Watches thriller web series… then regrets it later
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmol-Shukla-20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-shukla-0294972b9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaanmol811@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open for:
+
+`Collaborations` • `Open Source` • `Internships` • `Hackathons` • `Tech Events`
+
+</div>
+
+---
 <div align="center">
 🚀 LET'S CONNECT
 </div>

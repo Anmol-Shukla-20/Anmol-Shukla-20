@@ -118,7 +118,7 @@ const Anmol = {
 
 <div align="center">
 
-## LEGENDARY PROJECTS 🚀
+## EXCITING PROJECTS 🚀
 
 </div>
 

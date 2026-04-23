@@ -146,8 +146,9 @@ project = {
 Tech: Python • Machine Learning • NLP • Web Integration
 </td> <td width="50%" valign="top">
 
-🌐 Smart Classroom Tracker
-Google Classroom Integration System
+### 🌐 Smart Classroom Assignment Tracker
+
+**Google Classroom Deadline  **
 
 ```project = {
     "objective": "Track updates across multiple classrooms",
@@ -163,8 +164,8 @@ Google Classroom Integration System
 Tech: APIs • Node.js • JavaScript • Firebase
 </td> </tr> <tr> <td width="50%" valign="top">
 
-🌾 AI Krishi Sahayak
-Smart Agriculture Assistant
+### 🌾 AI Krishi Sahayak
+**Smart Agriculture Assistant**
 
 ```project = {
     "objective": "Assist farmers using AI insights",
@@ -180,9 +181,9 @@ Smart Agriculture Assistant
 Tech: Machine Learning • Python • Data Analysis • AI Models
 
 </td> <td width="50%" valign="top">
-🎯 Coming Soon...
+### 🎯 Coming Soon...
 
-Next Big Innovation
+**Next Big Innovation**
 ```project = {
     "objective": "???",
     "features": [

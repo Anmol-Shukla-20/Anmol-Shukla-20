@@ -23,18 +23,29 @@
 ║  🌟 ALIGNMENT: Curious Builder (Always Improving)             ║
 ╚═══════════════════════════════════════════════════════════════╝
 
+---
+
 <div align="center">
-👋 ABOUT ME
-</div>
-🎓 Engineering student in Electrical & Computer Science
-🤖 Learning AI/ML using Python
-💻 Practicing DSA using C++
-🌐 Exploring Gen AI & Agentic AI
-🚀 Goal: Become a Software Developer / AI Engineer
-<div align="center">
-🎮 CURRENT MISSION
+
+## 👋 ABOUT ME
+
 </div>
 
+- 🎓 Engineering student in **Electrical & Computer Science**
+- 🤖 Learning **AI/ML using Python**
+- 💻 Practicing **Data Structures & Algorithms (C++)**
+- 🌐 Exploring **Gen AI & Agentic AI**
+- 🚀 Goal: Become a **Software Developer / AI Engineer**
+
+---
+
+<div align="center">
+
+## 🎮 CURRENT MISSION
+
+</div>
+
+```javascript
 const Anmol = {
     role: "Engineering Student",
     currentFocus: [
@@ -46,7 +57,6 @@ const Anmol = {
     goal: "Build impactful AI-based solutions 🚀",
     funFact: "Binge watches thriller series... then regrets later 😂"
 };
-
 
 <div align="center">
 🛠️ TECH STACK

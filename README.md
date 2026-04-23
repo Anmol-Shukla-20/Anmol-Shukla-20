@@ -201,7 +201,7 @@ Stay Tuned! 👀
 
 <div align="center">
 
-## 📊 BATTLE STATISTICS 📊
+## 📊 GITHUB STATISTICS 📊
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anmol-Shukla-20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Shukla-20&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
@@ -212,7 +212,7 @@ Stay Tuned! 👀
 </div>
 
 <br>
-<div align= "center">
+
 ## SKILL TREE 🎯
     
 ```mermaid
@@ -240,18 +240,6 @@ graph TD
     E --> E2[Measurements]
 
 ```
-
-
-
-
-
-
-
-
-
-<div align="center">
-📊 GITHUB STATS
-</div> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anmol-Shukla-20&show_icons=true" /> <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Anmol-Shukla-20" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Shukla-20&layout=compact" />
 
 <div align="center">
 🎯 CURRENT GOALS

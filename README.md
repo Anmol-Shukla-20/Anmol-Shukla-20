@@ -214,7 +214,6 @@ Stay Tuned! 👀
 </div>
 
 <br>
-<div align="center">
 
 ## SKILL TREE 🎯
 

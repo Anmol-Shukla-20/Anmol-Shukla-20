@@ -218,6 +218,46 @@ Stay Tuned! 👀
 ---
 
 
+---
+
+<div align="center">
+
+## 🎯 SKILL TREE 🎯
+
+</div>
+
+```mermaid
+mindmap
+  root((Anmol))
+    Computer Science
+      Data Structures & Algorithms
+      Object-Oriented Programming
+      Database Management Systems
+    AI & Machine Learning
+      Machine Learning
+      Deep Learning (Basics)
+      NLP (Basics)
+      Model Building
+    Web Development
+      Frontend
+        HTML/CSS/JS
+        React (Basics)
+      Backend
+        Node.js
+        APIs
+      Database
+        MongoDB
+        Firebase
+    Electrical Engineering
+      Electrical Machines
+      Measurements
+      Basic Electronics
+    Tools & Platforms
+      Git & GitHub
+      Google Cloud
+      Firebase
+
+
 
 
 

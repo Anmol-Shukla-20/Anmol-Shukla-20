@@ -1,3 +1,4 @@
+<img width="980" height="494" alt="image" src="https://github.com/user-attachments/assets/165ff3ad-3813-4344-832e-7cb0634d9a7d" /><div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anmol!+👋;Electrical+%26+CS+Engineer+⚡;AI%2FML+Enthusiast+🤖;Aspiring+Software+Developer+💻;Problem+Solver+🚀" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-shukla-0294972b9)

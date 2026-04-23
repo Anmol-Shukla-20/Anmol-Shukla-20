@@ -197,7 +197,24 @@ project = {
     ],
     "status": "PLANNING"
 }
+Stay Tuned! 👀
+</td> </tr> </table>
 
+```
+
+<div align="center">
+
+## 📊 BATTLE STATISTICS 📊
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anmol-Shukla-20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Shukla-20&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Shukla-20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+---
 
 
 

@@ -15,7 +15,7 @@
 
 </div>
 
-ascii
+``` ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║  🎓 HERO CLASS: Electrical & Computer Science Student         ║
 ║  🎯 MAIN QUEST: Becoming AI/ML Engineer & Software Developer  ║
@@ -24,6 +24,7 @@ ascii
 ╚═══════════════════════════════════════════════════════════════╝
 
 ---
+```
 
 <div align="center">
 

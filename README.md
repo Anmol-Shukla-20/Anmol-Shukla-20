@@ -214,36 +214,30 @@ Stay Tuned! 👀
 </div>
 
 <br>
-
+<div align= "center">
 ## SKILL TREE 🎯
+</div>
 ```mermaid
 graph TD
     A[Anmol] --> B[Computer Science]
     A --> C[AI & ML]
     A --> D[Web Development]
     A --> E[Electrical]
-
     B --> B1[DSA]
     B --> B2[OOP]
     B --> B3[DBMS]
-
     C --> C1[Machine Learning]
     C --> C2[NLP Basics]
     C --> C3[Model Building]
-
     D --> D1[Frontend]
     D --> D2[Backend]
     D --> D3[Database]
-
     D1 --> D11[HTML/CSS/JS]
     D1 --> D12[React]
-
     D2 --> D21[Node.js]
     D2 --> D22[APIs]
-
     D3 --> D31[MongoDB]
     D3 --> D32[Firebase]
-
     E --> E1[Electrical Machines]
     E --> E2[Measurements]
 

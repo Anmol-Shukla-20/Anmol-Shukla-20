@@ -201,8 +201,6 @@ project = {
 Stay Tuned! 👀
 </td> </tr> </table>
 
-
-
 <div align="center">
 
 ## 📊 BATTLE STATISTICS 📊
@@ -214,13 +212,6 @@ Stay Tuned! 👀
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 </div>
-
----
-
-
----
-
-<div align="center">
 
 ---
 

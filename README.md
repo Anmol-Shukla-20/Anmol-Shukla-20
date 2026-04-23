@@ -116,6 +116,91 @@ const Anmol = {
 
 </div>
 
+---
+
+<div align="center">
+
+## 🚀 LEGENDARY PROJECTS 🚀
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI-Based Student Assistant  
+**Smart Academic Helper**
+
+```python
+project = {
+    "objective": "Manage assignments & academic workload",
+    "features": [
+        "📅 Deadline Prediction",
+        "📢 Announcement Summarization (NLP)",
+        "⚠️ Risk Detection (Late Submission)"
+    ],
+    "status": "IN PROGRESS"
+}
+```
+
+Tech: Python • Machine Learning • NLP • Web Integration
+</td> <td width="50%" valign="top">
+
+🌐 Smart Classroom Tracker
+Google Classroom Integration System
+
+```project = {
+    "objective": "Track updates across multiple classrooms",
+    "features": [
+        "📚 Multi-Class Monitoring",
+        "🔔 Real-Time Notifications",
+        "📊 Centralized Dashboard"
+    ],
+    "status": "ACTIVE"
+}
+
+Tech: APIs • Node.js • JavaScript • Firebase
+</td> </tr> <tr> <td width="50%" valign="top">
+
+🌾 AI Krishi Sahayak
+Smart Agriculture Assistant
+
+project = {
+    "objective": "Assist farmers using AI insights",
+    "features": [
+        "🌱 Crop Recommendation System",
+        "🌦️ Weather-based Suggestions",
+        "🦠 Disease Detection (AI)"
+    ],
+    "status": "DEVELOPMENT"
+}
+
+Tech: Machine Learning • Python • Data Analysis • AI Models
+
+</td> <td width="50%" valign="top">
+🎯 Coming Soon...
+
+Next Big Innovation
+project = {
+    "objective": "???",
+    "features": [
+        "🔥 Game-Changing Idea",
+        "⚡ Scalable System",
+        "🚀 Real-world Impact"
+    ],
+    "status": "PLANNING"
+}
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 📊 GITHUB STATS
 </div> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anmol-Shukla-20&show_icons=true" /> <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Anmol-Shukla-20" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Shukla-20&layout=compact" />

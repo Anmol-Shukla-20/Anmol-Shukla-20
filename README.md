@@ -156,7 +156,7 @@ project = {
         "🔔 Real-Time Notifications",
         "📊 Centralized Dashboard"
     ],
-    "status": "ACTIVE"
+    "status": "IN_PROGRESS"
 }
 ```
 
@@ -174,7 +174,7 @@ project = {
         "🌦️ Weather-based Suggestions",
         "🦠 Disease Detection (AI)"
     ],
-    "status": "DEVELOPMENT"
+    "status": "DEPLOYED"
 }
 ```
 
@@ -305,7 +305,7 @@ It is a craft learnt through constant learning and failure experiences."
 
 <div align="center">
 ⚡ "Building my future one line of code at a time" ⚡
-</div> ```
+</div> 
 
 <div align="center">
 

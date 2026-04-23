@@ -217,8 +217,6 @@ Stay Tuned! 👀
 
 ## SKILL TREE 🎯
 
-</div>
-
 ```mermaid
 graph TD
     A[Anmol] --> B[Computer Science]

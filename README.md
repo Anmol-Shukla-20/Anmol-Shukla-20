@@ -148,10 +148,10 @@ Tech: Python • Machine Learning • NLP • Web Integration
 
 ### 🌐 Smart Classroom Assignment Tracker
 
-**Google Classroom Deadline  **
+**Classroom Deadline Manager**
 
 ```project = {
-    "objective": "Track updates across multiple classrooms",
+    "objective": "Track updates of GC Assignments",
     "features": [
         "📚 Multi-Class Monitoring",
         "🔔 Real-Time Notifications",
@@ -181,6 +181,7 @@ Tech: APIs • Node.js • JavaScript • Firebase
 Tech: Machine Learning • Python • Data Analysis • AI Models
 
 </td> <td width="50%" valign="top">
+    
 ### 🎯 Coming Soon...
 
 **Next Big Innovation**

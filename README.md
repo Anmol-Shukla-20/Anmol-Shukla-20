@@ -247,6 +247,8 @@ graph TD
     E --> E1[Electrical Machines]
     E --> E2[Measurements]
 
+```
+
 
 
 

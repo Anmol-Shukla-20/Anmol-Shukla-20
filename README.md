@@ -58,6 +58,8 @@ const Anmol = {
     funFact: "Binge watches thriller series... then regrets later 😂"
 };
 
+```
+
 <div align="center">
 🛠️ TECH STACK
 </div>

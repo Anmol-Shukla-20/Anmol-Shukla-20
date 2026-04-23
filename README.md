@@ -241,32 +241,51 @@ graph TD
 
 ```
 
-<div align="center">
-🎯 CURRENT GOALS
-</div>
- Improve DSA problem solving
- Build strong AI/ML projects
- Start contributing to Open Source
- Learn System Design basics
+---
 
 <div align="center">
-🤝 LOOKING FOR
+
+## 🎯 CURRENT GOALS
+
 </div>
-Guidance from experienced developers
-Open Source contribution opportunities
-Collaboration on AI / Web projects
+
+- Improve DSA problem solving  
+- Build strong AI/ML projects  
+- Start contributing to Open Source  
+- Learn System Design basics  
+
+---
 
 <div align="center">
-💭 PHILOSOPHY
+
+## 🤝 LOOKING FOR
+
 </div>
 
+- Guidance from experienced developers  
+- Open Source contribution opportunities  
+- Collaboration on AI / Web projects  
+
+---
+
+<div align="center">
+
+## 💭 PHILOSOPHY
+"Programming is not a Science.It is a craft learnt through constant learning and failure experiences."
+
+</div>
+
+```python
 class AnmolMindset:
     def __init__(self):
         self.motto = "Keep learning, keep building"
         self.goal = "Turn ideas into real-world solutions"
-    
+
     def daily_rule(self):
         return "Code. Learn. Improve. Repeat. 🚀"
+
+---
+
 
 <div align="center">
 🔥 FUN FACT

@@ -150,7 +150,8 @@ Tech: Python • Machine Learning • NLP • Web Integration
 
 **Classroom Deadline Manager**
 
-```project = {
+```python
+project = {
     "objective": "Track updates of GC Assignments",
     "features": [
         "📚 Multi-Class Monitoring",
@@ -167,7 +168,8 @@ Tech: APIs • Node.js • JavaScript • Firebase
 ### 🌾 AI Krishi Sahayak
 **Smart Agriculture Assistant**
 
-```project = {
+```python
+project = {
     "objective": "Assist farmers using AI insights",
     "features": [
         "🌱 Crop Recommendation System",
@@ -185,7 +187,8 @@ Tech: Machine Learning • Python • Data Analysis • AI Models
 ### 🎯 Coming Soon...
 
 **Next Big Innovation**
-```project = {
+```python
+project = {
     "objective": "???",
     "features": [
         "🔥 Game-Changing Idea",

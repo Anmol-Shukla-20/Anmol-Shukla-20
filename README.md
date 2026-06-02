@@ -210,7 +210,7 @@ Stay Tuned! 👀
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anmol-Shukla-20&theme=radical&no-frame=true&margin-w=15" /> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anmol-Shukla-20)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol-Shukla-20&theme=radical" />
 

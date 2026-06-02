@@ -203,13 +203,16 @@ Stay Tuned! 👀
 
 ## 📊 GITHUB STATISTICS 📊
 
-<p align="center">
+<p align="center"> 
   <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Shukla-20&theme=radical&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
   <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anmol-Shukla-20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=Anmol-Shukla-20&theme=radical&no-frame=true&margin-w=15" /> 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol-Shukla-20&theme=radical" />
 
 </div>
 

@@ -175,6 +175,8 @@ project = {
         "🦠 Disease Detection (AI)"
     ],
     "status": "DEPLOYED"
+    "Link" : "https://ai-krishi-sahayak-chatbot.onrender.com/login"
+
 }
 ```
 

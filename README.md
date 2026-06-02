@@ -180,7 +180,7 @@ project = {
 }
 ```
 
-Tech: Machine Learning • Python • Data Analysis • AI Models
+Tech: Machine Learning • Python • Data Analysis • APIs • AI Models
 
 </td> <td width="50%" valign="top">
     

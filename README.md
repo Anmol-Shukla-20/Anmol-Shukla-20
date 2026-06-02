@@ -214,6 +214,11 @@ Stay Tuned! 👀
   <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-Shukla-20&theme=radical" />
 </p>
 
+<p align="center">
+  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=radical&hide_border=true&area=true" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-Shukla-20&theme=radical" />
+</p>
+
 </div>
 
 <br>

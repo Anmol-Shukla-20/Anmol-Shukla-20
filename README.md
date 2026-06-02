@@ -208,12 +208,9 @@ Stay Tuned! 👀
   <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anmol-Shukla-20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anmol-Shukla-20&theme=react-dark)](https://github.com/Anmol-Shukla-20/github-profile-trophy)
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol-Shukla-20&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anmol-Shukla-20&show_icons=true&theme=radical&hide_border=true" />
 
 </div>
 

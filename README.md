@@ -210,8 +210,8 @@ Stay Tuned! 👀
 
 
 <p align="center">
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-Shukla-20&theme=radical" />
+  <img width="51%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Shukla-20&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-Shukla-20&theme=radical" />
 </p>
 
 </div>

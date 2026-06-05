@@ -172,7 +172,7 @@ project = {
     "features": [
         "🌱 Crop Recommendation System",
         "🌦️ Weather-based Suggestions",
-        "🦠 Disease Detection (AI)"
+        "🦠 Getting live Insights from AI"
     ],
     "status": "DEPLOYED"
     "Link" : "https://ai-krishi-sahayak-chatbot.onrender.com/login"

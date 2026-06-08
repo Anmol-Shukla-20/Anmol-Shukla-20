@@ -230,7 +230,7 @@ mindmap
   root((Anmol))
     Computer Science
       Data Structures & Algorithms (C++)
-      Object-Oriented Programming(Python)
+      Object-Oriented Programming(OOPS using Python)
       Database Management Systems
     AI & Machine Learning
       Deep Learning

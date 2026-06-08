@@ -231,7 +231,7 @@ mindmap
     Computer Science
       Data Structures & Algorithms (C++)
       Object-Oriented Programming(OOPS using Python)
-      Database Management Systems
+      DBMS
     AI & Machine Learning
       Deep Learning
       Computer Vision

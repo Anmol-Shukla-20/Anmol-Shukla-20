@@ -122,27 +122,33 @@ const Anmol = {
 
 </div>
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI-Based Student Assistant  
+### 🧠 AI-Based Student Assistant
+
 **Smart Academic Helper**
 
 ```python
 project = {
-    "objective": "Manage assignments & academic workload",
+    "objective": "Manage assignments & workload",
+
     "features": [
         "📅 Deadline Prediction",
-        "📢 Announcement Summarization (NLP)",
-        "⚠️ Risk Detection (Late Submission)"
+        "📢 Announcement Summarization",
+        "⚠️ Risk Detection"
     ],
+
     "status": "IN PROGRESS"
 }
 ```
 
-Tech: Python • Machine Learning • NLP • Web Integration
-</td> <td width="50%" valign="top">
+**Tech:** Python • ML • NLP • Web Integration
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌐 Smart Classroom Assignment Tracker
 
@@ -151,76 +157,103 @@ Tech: Python • Machine Learning • NLP • Web Integration
 ```python
 project = {
     "objective": "Track GCR Assignments",
+
     "features": [
         "📚 Multi-Class Monitoring",
         "🔔 Real-Time Notifications",
-        "📊 Centralized Dashboard"
+        "📊 Dashboard"
     ],
-    "status": "IN_PROGRESS"
+
+    "status": "IN PROGRESS"
 }
 ```
 
-Tech: APIs • Node.js • JavaScript • Firebase
-</td> </tr> <tr> <td width="50%" valign="top">
+**Tech:** APIs • Node.js • JavaScript • Firebase
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 GitHub DevCard Project
+
+**Generate GitHub DevCards**
+
+```python
+project = {
+    "objective": "Generate DevCards",
+
+    "features": [
+        "✨ Shareable Cards",
+        "👤 Avatar & Bio",
+        "📈 Top Repositories"
+    ],
+
+    "status": "DEPLOYED"
+}
+```
+
+🌍 **Live Demo:**
+https://github-card-frontend-511630275287.us-central1.run.app/
+
+**Tech:** APIs • Python • JavaScript • Google Cloud
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌾 AI Krishi Sahayak
+
 **Smart Agriculture Assistant**
 
 ```python
 project = {
-    "objective": "Assist farmers using AI insights",
+    "objective": "AI-powered farming help",
+
     "features": [
-        "🌱 Crop Recommendation System",
-        "🌦️ Weather-based Suggestions",
-        "🦠 Getting live Insights from AI"
+        "🌱 Crop Recommendation",
+        "🌦️ Weather Suggestions",
+        "🤖 AI Insights"
     ],
+
     "status": "DEPLOYED"
-    "Live Link" : "https://ai-krishi-sahayak-chatbot.onrender.com/login"
 }
 ```
 
-Tech: Machine Learning • Python • Data Analysis • APIs • AI Models
+🌍 **Live Demo:**
+https://ai-krishi-sahayak-chatbot.onrender.com/login
 
-</td> <td width="50%" valign="top">
+**Tech:** ML • Python • Data Analysis • APIs
 
-### 🌐 Github DevCard Project
+</td>
+</tr>
 
-**Generates a Github Devcard based on Github Username**
+<tr>
+<td width = "50%" valign = "top">
 
-```python
-project = {
-    "objective": "DevCard GEneration based on github username",
-    "features": [
-        "✨ Shareable HTML DevCards",
-        "👤 Avatar & Bio Display",
-        "📈 Top Repositories"
-    ],
-    "status": "DEPLOYED"
-    "LIve Link": "https://github-card-frontend-511630275287.us-central1.run.app/"
-}
-```
-
-Tech: APIs • Python • JavaScript • Google Cloud
-</td> </tr> <tr> <td width="50%" valign="top">
-    
 ### 🎯 Coming Soon...
 
 **Next Big Innovation**
+
 ```python
 project = {
     "objective": "???",
+
     "features": [
         "🔥 Game-Changing Idea",
         "⚡ Scalable System",
         "🚀 Real-world Impact"
     ],
+
     "status": "PLANNING"
 }
 ```
-Stay Tuned! 👀
-</td> </tr> </table>
 
-<div align="center">
+**Stay Tuned! 👀**
+
+</td>
+</table>
 
 ## 📊 GITHUB STATISTICS 📊
 

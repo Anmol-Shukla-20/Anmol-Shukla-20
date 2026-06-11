@@ -275,10 +275,7 @@ project = {
   <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-Shukla-20&theme=radical" />
 </p>
 
-
 </div>
-
-<br>
 ---
 
 <div align="center">

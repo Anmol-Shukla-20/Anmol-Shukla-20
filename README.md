@@ -171,8 +171,9 @@ Tech: APIs • Node.js • JavaScript • Firebase
 project = {
     "objective": "DevCard GEneration based on github username",
     "features": [
-        "📚polished, shareable HTML DevCards",
-        "🔔 Real-Time devcard from a GitHub username showing avatar, bio,top repos etc"
+        "✨ Shareable HTML DevCards",
+        "👤 Avatar & Bio Display",
+        "📈 Top Repositories"
     ],
     "status": "DEPLOYED"
     "LIve Link": "https://github-card-frontend-511630275287.us-central1.run.app/"
@@ -195,7 +196,6 @@ project = {
     ],
     "status": "DEPLOYED"
     "Live Link" : "https://ai-krishi-sahayak-chatbot.onrender.com/login"
-
 }
 ```
 

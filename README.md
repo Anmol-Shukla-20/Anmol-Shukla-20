@@ -255,8 +255,12 @@ project = {
 </td>
 </table>
 
+---
+
 <div align="center">
-    ## 📊 GITHUB STATISTICS 📊
+
+## 📊 GITHUB STATISTICS 📊
+
 </div>
 
 

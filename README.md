@@ -163,26 +163,6 @@ project = {
 Tech: APIs • Node.js • JavaScript • Firebase
 </td> </tr> <tr> <td width="50%" valign="top">
 
-### 🌐 Github DevCard Project
-
-**Generates a Github Devcard based on Github Username**
-
-```python
-project = {
-    "objective": "DevCard GEneration based on github username",
-    "features": [
-        "✨ Shareable HTML DevCards",
-        "👤 Avatar & Bio Display",
-        "📈 Top Repositories"
-    ],
-    "status": "DEPLOYED"
-    "LIve Link": "https://github-card-frontend-511630275287.us-central1.run.app/"
-}
-```
-
-Tech: APIs • Python • JavaScript • Google Cloud
-</td> </tr> <tr> <td width="50%" valign="top">
-
 ### 🌾 AI Krishi Sahayak
 **Smart Agriculture Assistant**
 
@@ -202,6 +182,26 @@ project = {
 Tech: Machine Learning • Python • Data Analysis • APIs • AI Models
 
 </td> <td width="50%" valign="top">
+
+### 🌐 Github DevCard Project
+
+**Generates a Github Devcard based on Github Username**
+
+```python
+project = {
+    "objective": "DevCard GEneration based on github username",
+    "features": [
+        "✨ Shareable HTML DevCards",
+        "👤 Avatar & Bio Display",
+        "📈 Top Repositories"
+    ],
+    "status": "DEPLOYED"
+    "LIve Link": "https://github-card-frontend-511630275287.us-central1.run.app/"
+}
+```
+
+Tech: APIs • Python • JavaScript • Google Cloud
+</td> </tr> <tr> <td width="50%" valign="top">
     
 ### 🎯 Coming Soon...
 

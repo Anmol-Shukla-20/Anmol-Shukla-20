@@ -279,8 +279,12 @@ project = {
 </div>
 
 <br>
+---
+
 <div align="center">
+
 ## 🎯 SKILL TREE 🎯
+
 </div>
 
 ```mermaid

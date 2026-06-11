@@ -255,7 +255,7 @@ project = {
 </td>
 </table>
 
-<div align = "center">
+<div align="center">
     ## 📊 GITHUB STATISTICS 📊
 </div>
 
@@ -275,9 +275,8 @@ project = {
 </div>
 
 <br>
-
+<div align="center">
 ## 🎯 SKILL TREE 🎯
-
 </div>
 
 ```mermaid

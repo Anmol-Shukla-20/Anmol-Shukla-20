@@ -255,7 +255,10 @@ project = {
 </td>
 </table>
 
-## 📊 GITHUB STATISTICS 📊
+<div align = "center">
+    ## 📊 GITHUB STATISTICS 📊
+</div>
+
 
 <p align="center"> 
   <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Shukla-20&theme=radical&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />

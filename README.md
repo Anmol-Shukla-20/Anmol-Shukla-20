@@ -139,11 +139,9 @@ project = {
         "📢 Announcement Summarization",
         "⚠️ Risk Detection"
     ],
-
     "status": "IN PROGRESS"
 }
 ```
-
 **Tech:** Python • ML • NLP • Web Integration
 
 </td>
@@ -163,7 +161,6 @@ project = {
         "🔔 Real-Time Notifications",
         "📊 Dashboard"
     ],
-
     "status": "IN PROGRESS"
 }
 ```
@@ -189,7 +186,6 @@ project = {
         "👤 Avatar & Bio",
         "📈 Top Repositories"
     ],
-
     "status": "DEPLOYED"
 }
 ```
@@ -216,7 +212,6 @@ project = {
         "🌦️ Weather Suggestions",
         "🤖 AI Insights"
     ],
-
     "status": "DEPLOYED"
 }
 ```
@@ -245,7 +240,6 @@ project = {
         "⚡ Scalable System",
         "🚀 Real-world Impact"
     ],
-
     "status": "PLANNING"
 }
 ```

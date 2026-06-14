@@ -243,7 +243,6 @@ project = {
     "status": "PLANNING"
 }
 ```
-
 **Stay Tuned! 👀**
 
 </td>

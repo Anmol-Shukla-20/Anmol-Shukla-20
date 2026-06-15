@@ -52,7 +52,7 @@ const Anmol = {
         "🌐 Web & Full Stack Basics",
         "⚡ Real-world Projects"
     ],
-    goal: "Build impactful AI-based solutions 🚀",
+    goal: "Build Impactful AI-based solutions 🚀",
     funFact: "Binge watches thriller series... then regrets later 😂"
 };
 

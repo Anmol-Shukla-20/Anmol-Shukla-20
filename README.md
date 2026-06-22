@@ -189,7 +189,6 @@ project = {
     "status": "DEPLOYED"
 }
 ```
-
 🌍 **Live Demo:**
 https://github-card-frontend-511630275287.us-central1.run.app/
 
@@ -215,7 +214,6 @@ project = {
     "status": "DEPLOYED"
 }
 ```
-
 🌍 **Live Demo:**
 https://ai-krishi-sahayak-chatbot.onrender.com/login
 

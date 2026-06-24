@@ -247,7 +247,7 @@ https://gdg-x-gfg-project.uc.r.appspot.com
 **Tech:** APIs • MongoDB • JavaScript • Google Cloud
 </td>
 
-<td>
+<td width="50%" valign="top">
     
 ### 🎯Coming Soon...
 

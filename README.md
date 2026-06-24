@@ -223,8 +223,32 @@ https://ai-krishi-sahayak-chatbot.onrender.com/login
 </tr>
 
 <tr>
-<td width = "50%" valign = "top">
+<td width="50%" valign="top">
 
+### 🌐 Carbon Tracking Platform
+
+**Tracks Generated Carbon Footprint**
+
+```python
+project = {
+    "objective": "Tracking Generated Carbon Footprint",
+
+    "features": [
+        "✨ Reduce Carbon footprint and Earn Echo points.",
+        "👤 Live Chatbot Assistance",
+        "📈 Shareable Cards "
+    ],
+    "status": "DEPLOYED"
+}
+```
+🌍 **Live Demo:**
+
+
+**Tech:** APIs • MongoDB • JavaScript • Google Cloud
+
+</td>
+
+<td width="50%" valign="top">
 ### 🎯 Coming Soon...
 
 **Next Big Innovation**

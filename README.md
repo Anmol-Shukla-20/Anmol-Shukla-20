@@ -234,7 +234,7 @@ project = {
     "objective": "Tracking Generated Carbon Footprint",
 
     "features": [
-        " Reduce Carbon footprint and Earn Echo points.",
+        "♻️ Reduce Carbon footprint and Earn Echo points.",
         "💬 Live Chatbot Assistance",
         "📈 Shareable Cards "
     ],
@@ -247,8 +247,9 @@ https://gdg-x-gfg-project.uc.r.appspot.com
 **Tech:** APIs • MongoDB • JavaScript • Google Cloud
 </td>
 
-<td >
-### 🎯 Coming Soon...
+<td>
+    
+### 🎯Coming Soon...
 
 **Next Big Innovation**
 

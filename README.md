@@ -323,7 +323,6 @@ mindmap
       Power Systems-1
       Electrical Machines
       Design of Analysis and Algorithms
-      Measurements
       Control Engineering
 ```
 

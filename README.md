@@ -225,7 +225,7 @@ https://ai-krishi-sahayak-chatbot.onrender.com/login
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Carbon Tracking Platform
+### 🌐 Carbon Tracking Web Platform
 
 **Tracks Generated Carbon Footprint**
 

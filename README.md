@@ -159,7 +159,7 @@ project = {
     "features": [
         "📚 Multi-Class Monitoring",
         "🔔 Real-Time Notifications",
-        "📊 Dashboard"
+        "📊 Real time Dashboard"
     ],
     "status": "IN PROGRESS"
 }
